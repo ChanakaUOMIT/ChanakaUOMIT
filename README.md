@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChanakaUOMIT" alt="ChanakaUOMIT" /> </p>
 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9500988)](https://stackoverflow.com/users/9500988/chanaka)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
