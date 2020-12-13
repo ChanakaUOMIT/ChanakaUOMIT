@@ -2,13 +2,14 @@
 
 ### Connect with me:
 
-<!--
-[<img align="left" alt="ChanakaUOMIT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ChanakaUOMIT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ChanakaUOMIT | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="ChanakaUOMIT | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
-[<img align="left" alt="ChanakaUOMIT | gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][gitlab]
--->
+
+<a href="https://www.linkedin.com/in/chanaka-wickramanayaka/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hanaka-wickramanayaka" height="30" width="40" /></a>
+
+<a href="https://stackoverflow.com/users/9500988/chanaka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9500988" height="30" width="40" /></a>
+
+<a href="https://www.facebook.com/chanaka.sampath.520/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="chanaka.sampath" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/chanakauomfit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="chanakauomfit" height="30" width="40" /></a>
 </br>
 </br>
 
